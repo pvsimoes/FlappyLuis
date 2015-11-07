@@ -363,7 +363,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 53b312799c7e84cc28513979da84ac5c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  obstacles: {fileID: 181434, guid: df7458115e85142418c506cce254780d, type: 2}
+  obstacles: {fileID: 191872, guid: c4b0d8220767d4b7b9a700715d80e963, type: 2}
 --- !u!4 &2101507217
 Transform:
   m_ObjectHideFlags: 0
